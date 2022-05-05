@@ -1,6 +1,6 @@
 {
-    "Skills": 
-    	{	
+	"Skills": 
+		{	
 		"Skill_1":"Theory of software testing and quality assurance",
 		"Skill_2":"Clent-server architecture",
 		"Skill_3":"HTTP request methods",
@@ -18,5 +18,5 @@
 		"Skill_15":"Jmeter",
 		"Skill_16":"Scrum",
 		"Skill_17":"Python"
-	}	
+		}	
 }

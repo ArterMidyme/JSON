@@ -1,7 +1,10 @@
 {
-	"Favorite_movie":"Interstellar",
-	"Favorite_series":"Limitless",
-	"Favorite_food":"Mashed potatoes with chicken",
-	"Favorite_season":"Summer",
-	"Favorite_country":"Japan"
+	"Preferences":
+		{
+		"Favorite_movie":"Interstellar",
+		"Favorite_series":"Limitless",
+		"Favorite_food":"Mashed potatoes with chicken",
+		"Favorite_season":"Summer",
+		"Favorite_country":"Japan"
+		}
 }

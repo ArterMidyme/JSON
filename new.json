@@ -1,6 +1,9 @@
 {
-	"Full_name":"Eugene Makarov",
-	"Age":"23",
-	"Marital":"married",
-	"Desired_salary":"1000" 
+	"Person":
+		{
+		"Full_name":"Eugene Makarov",
+		"Age":"23",
+		"Marital":"married",
+		"Desired_salary":"1000" 
+		}
 }
